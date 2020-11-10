@@ -8,7 +8,7 @@
 ## React :last_quarter_moon:
 * [Tutorial (생활코딩)](https://github.com/JeongP/react-tutorial-saengco)
 * [Func Component VS Class Component](https://github.com/JeongP/react-component-func-vs-class)
-* [React Router]
+* [React Router](https://github.com/JeongP/react-router-dom)
 * [Redux]
 
 
