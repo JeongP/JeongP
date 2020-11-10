@@ -4,7 +4,7 @@
 
 ## :turtle: Study
 > 공부한 내용들을 기록하고, 달의 채워짐 정도로 수준을 표현하도록 하겠습니다.
-> :new_moon:, :waning_crescent_moon:, :last_quarter_moon:, :waning_gibbous_moon:, :full_moon:
+> (:new_moon:, :waning_crescent_moon:, :last_quarter_moon:, :waning_gibbous_moon:, :full_moon:)
 
 ## React :waning_gibbous_moon:
 * [Tutorial (생활코딩)](https://github.com/JeongP/react-tutorial-saengco)
