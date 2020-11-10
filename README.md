@@ -22,6 +22,6 @@
 ## :blue_book: Projects
 > 기억은 잘 안나지만 학생때 프로젝트를 했었습니다?
 
-* [Mobile 식권 (2019.03-2019.06)] (https://github.com/JeongP/Mobile_Meal_Ticket)
-* [UNDERDOG (2018.09-2018.10)] (https://github.com/JeongP/Under-Dog)
-* [Hongik Festival (2018.05-2018.05)] (https://github.com/JeongP/hongikfestival)
+* [Mobile 식권 (2019.03-2019.06)](https://github.com/JeongP/Mobile_Meal_Ticket)
+* [UNDERDOG (2018.09-2018.10)](https://github.com/JeongP/Under-Dog)
+* [Hongik Festival (2018.05-2018.05)](https://github.com/JeongP/hongikfestival)
