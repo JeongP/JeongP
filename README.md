@@ -8,10 +8,12 @@
 
 ### React :waning_gibbous_moon:
 
+* [immutability 하다는 것](https://github.com/JeongP/immutability)
 * [Tutorial (생활코딩)](https://github.com/JeongP/react-tutorial-saengco)
 * [Func Component VS Class Component](https://github.com/JeongP/react-component-func-vs-class)
 * [React Router](https://github.com/JeongP/react-router-dom)
 * [Redux]
+* [React-Redux]
 
 
 ### CRM :new_moon:
