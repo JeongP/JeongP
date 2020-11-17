@@ -18,7 +18,7 @@
 
 ### CRM :new_moon:
 
-*공부예정*
+* [Lead Structure](https://gist.github.com/JeongP/e700ead690cf1bee5af90ab413710650)
 
 
 ## :blue_book: Projects
