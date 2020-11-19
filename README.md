@@ -12,7 +12,7 @@
 * [Tutorial (생활코딩)](https://github.com/JeongP/react-tutorial-saengco)
 * [Func Component VS Class Component](https://github.com/JeongP/react-component-func-vs-class)
 * [React Router](https://github.com/JeongP/react-router-dom)
-* [Redux]
+* [Redux](https://github.com/JeongP/redux-example-tutorial)
 * [React-Redux]
 
 
