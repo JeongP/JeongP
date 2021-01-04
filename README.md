@@ -16,7 +16,7 @@
 * [React-express 연동](https://github.com/JeongP/react-express-example)
 
 ### GIT
-* [GIT commit msg는 어떻게 쓰는가](https://github.com/JeongP/git-commit-msg)
+* [GIT commit msg는 어떻게 쓰나요?](https://github.com/JeongP/git-commit-msg)
 
 
 ### CRM :new_moon:
