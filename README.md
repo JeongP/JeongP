@@ -3,9 +3,7 @@
 초등학생 이후 기록을 꾸준히 해본적은 없으나 꾸준히 해보겠습니다. [-](https://github.com/JeongP/TMAX)
 
 ## :green_book: Study
-> 공부한 내용들을 기록하고, 달의 채워짐 정도로 수준을 표현하도록 하겠습니다.
-> (:new_moon:, :waning_crescent_moon:, :last_quarter_moon:, :waning_gibbous_moon:, :full_moon:)
-
+> 공부한 내용들을 기록하겠습니더.
 
 ### React :last_quarter_moon:
 
